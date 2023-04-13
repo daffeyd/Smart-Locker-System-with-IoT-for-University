@@ -15,7 +15,7 @@ This project create a efficient locker system that allocate unused locker to the
 
 ## Description
 
-This project is using the ESP32. This project outcome is to make locker that can be accessed by student using their smartphones. They also can access a real time status data of locker
+This project is using the ESP32. This project outcome is to make locker that can be accessed by student using their smartphones. They can also access a real time status of locker
 ![Project Image](Assets/poster.png)
 
 #### Technologies
